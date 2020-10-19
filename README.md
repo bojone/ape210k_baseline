@@ -11,7 +11,11 @@ https://kexue.fm/archives/7809
 
 运行环境：tensorflow 1.14 + keras 2.3.1 + bert4keras 0.8.8
 
-## 下载
+## 数据
+
+https://github.com/Chenny0808/ape210k
+
+## 权重
 
 UER开源的Base和Large版模型的TF权重可以在[这里](https://pan.baidu.com/s/1Xp_ttsxwLMFDiTPqmRABhg)(提取码l0k6)下载。
 
