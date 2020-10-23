@@ -19,7 +19,10 @@ https://github.com/Chenny0808/ape210k
 
 UER开源的Base和Large版模型的TF权重可以在[这里](https://pan.baidu.com/s/1Xp_ttsxwLMFDiTPqmRABhg)(提取码l0k6)下载。
 
-训练好的模型权重，可以在[百度网盘](https://pan.baidu.com/s/1fiQr-uIGpdZkOHmkaOdNPA)(jc7g)下载。
+训练好的模型权重，可以在[百度网盘](https://pan.baidu.com/s/1fiQr-uIGpdZkOHmkaOdNPA)(jc7g)下载。注意，如果你是使用python3的，那么请使用下面的代码加载`token_dict, keep_tokens`：
+```python
+token_dict, keep_tokens = json.load(open('token_dict_keep_tokens.json'))
+```
 
 ## 交流
 
